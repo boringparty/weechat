@@ -1,0 +1,110 @@
+2026-03-06 01:30 🇦🇺 Australian GP: FP1
+2026-03-06 05:00 🇦🇺 Australian GP: FP2
+2026-03-07 01:30 🇦🇺 Australian GP: FP3
+2026-03-07 05:00 🇦🇺 Australian GP: Qualy
+2026-03-08 04:00 🇦🇺 Australian GP: Grand Prix
+2026-03-13 03:30 🇨🇳 Chinese GP: FP1
+2026-03-13 07:30 🇨🇳 Chinese GP: Sprint Qualy
+2026-03-14 03:00 🇨🇳 Chinese GP: Sprint
+2026-03-14 07:00 🇨🇳 Chinese GP: Qualy
+2026-03-15 07:00 🇨🇳 Chinese GP: Grand Prix
+2026-03-27 02:30 🇯🇵 Japanese GP: FP1
+2026-03-27 06:00 🇯🇵 Japanese GP: FP2
+2026-03-28 02:30 🇯🇵 Japanese GP: FP3
+2026-03-28 06:00 🇯🇵 Japanese GP: Qualy
+2026-03-29 05:00 🇯🇵 Japanese GP: Grand Prix
+2026-05-01 16:30 🇺🇸 Miami GP: FP1
+2026-05-01 20:30 🇺🇸 Miami GP: Sprint Qualy
+2026-05-02 16:00 🇺🇸 Miami GP: Sprint
+2026-05-02 20:00 🇺🇸 Miami GP: Qualy
+2026-05-03 20:00 🇺🇸 Miami GP: Grand Prix
+2026-05-22 16:30 🇨🇦 Canadian GP: FP1
+2026-05-22 20:30 🇨🇦 Canadian GP: Sprint Qualy
+2026-05-23 16:00 🇨🇦 Canadian GP: Sprint
+2026-05-23 20:00 🇨🇦 Canadian GP: Qualy
+2026-05-24 20:00 🇨🇦 Canadian GP: Grand Prix
+2026-06-05 11:30 🇲🇨 Monaco GP: FP1
+2026-06-05 15:00 🇲🇨 Monaco GP: FP2
+2026-06-06 10:30 🇲🇨 Monaco GP: FP3
+2026-06-06 14:00 🇲🇨 Monaco GP: Qualy
+2026-06-07 13:00 🇲🇨 Monaco GP: Grand Prix
+2026-06-12 05:30 🇪🇸 Barcelona GP: FP1
+2026-06-12 09:00 🇪🇸 Barcelona GP: FP2
+2026-06-13 04:30 🇪🇸 Barcelona GP: FP3
+2026-06-13 08:00 🇪🇸 Barcelona GP: Qualy
+2026-06-14 07:00 🇪🇸 Barcelona GP: Grand Prix
+2026-06-26 11:30 🇦🇹 Austrian GP: FP1
+2026-06-26 15:00 🇦🇹 Austrian GP: FP2
+2026-06-27 10:30 🇦🇹 Austrian GP: FP3
+2026-06-27 14:00 🇦🇹 Austrian GP: Qualy
+2026-06-28 13:00 🇦🇹 Austrian GP: Grand Prix
+2026-07-03 11:30 🇬🇧 British GP: FP1
+2026-07-03 15:30 🇬🇧 British GP: Sprint Qualy
+2026-07-04 11:00 🇬🇧 British GP: Sprint
+2026-07-04 15:00 🇬🇧 British GP: Qualy
+2026-07-05 14:00 🇬🇧 British GP: Grand Prix
+2026-07-17 11:30 🇧🇪 Belgian GP: FP1
+2026-07-17 15:00 🇧🇪 Belgian GP: FP2
+2026-07-18 10:30 🇧🇪 Belgian GP: FP3
+2026-07-18 14:00 🇧🇪 Belgian GP: Qualy
+2026-07-19 13:00 🇧🇪 Belgian GP: Grand Prix
+2026-07-24 11:30 🇭🇺 Hungarian GP: FP1
+2026-07-24 15:00 🇭🇺 Hungarian GP: FP2
+2026-07-25 10:30 🇭🇺 Hungarian GP: FP3
+2026-07-25 14:00 🇭🇺 Hungarian GP: Qualy
+2026-07-26 13:00 🇭🇺 Hungarian GP: Grand Prix
+2026-08-21 10:30 🇳🇱 Dutch GP: FP1
+2026-08-21 14:30 🇳🇱 Dutch GP: Sprint Qualy
+2026-08-22 10:00 🇳🇱 Dutch GP: Sprint
+2026-08-22 14:00 🇳🇱 Dutch GP: Qualy
+2026-08-23 13:00 🇳🇱 Dutch GP: Grand Prix
+2026-09-04 10:30 🇮🇹 Italian GP: FP1
+2026-09-04 14:00 🇮🇹 Italian GP: FP2
+2026-09-05 10:30 🇮🇹 Italian GP: FP3
+2026-09-05 14:00 🇮🇹 Italian GP: Qualy
+2026-09-06 13:00 🇮🇹 Italian GP: Grand Prix
+2026-09-11 11:30 🇪🇸 Madrid GP: FP1
+2026-09-11 15:00 🇪🇸 Madrid GP: FP2
+2026-09-12 10:30 🇪🇸 Madrid GP: FP3
+2026-09-12 14:00 🇪🇸 Madrid GP: Qualy
+2026-09-13 13:00 🇪🇸 Madrid GP: Grand Prix
+2026-09-24 08:30 🇦🇿 Baku GP: FP1
+2026-09-24 12:00 🇦🇿 Baku GP: FP2
+2026-09-25 08:30 🇦🇿 Baku GP: FP3
+2026-09-25 12:00 🇦🇿 Baku GP: Qualy
+2026-09-26 11:00 🇦🇿 Baku GP: Grand Prix
+2026-10-09 08:30 🇸🇬 Singapore GP: FP1
+2026-10-09 12:30 🇸🇬 Singapore GP: Sprint Qualy
+2026-10-10 09:00 🇸🇬 Singapore GP: Sprint
+2026-10-10 13:00 🇸🇬 Singapore GP: Qualy
+2026-10-11 12:00 🇸🇬 Singapore GP: Grand Prix
+2026-10-23 17:30 🇺🇸 United States GP: FP1
+2026-10-23 21:00 🇺🇸 United States GP: FP2
+2026-10-24 17:30 🇺🇸 United States GP: FP3
+2026-10-24 21:00 🇺🇸 United States GP: Qualy
+2026-10-25 20:00 🇺🇸 United States GP: Grand Prix
+2026-10-30 18:30 🇲🇽 Mexico City GP: FP1
+2026-10-30 22:00 🇲🇽 Mexico City GP: FP2
+2026-10-31 17:30 🇲🇽 Mexico City GP: FP3
+2026-10-31 21:00 🇲🇽 Mexico City GP: Qualy
+2026-11-01 20:00 🇲🇽 Mexico City GP: Grand Prix
+2026-11-06 15:30 🇧🇷 Brazilian GP: FP1
+2026-11-06 19:00 🇧🇷 Brazilian GP: FP2
+2026-11-07 14:30 🇧🇷 Brazilian GP: FP3
+2026-11-07 18:00 🇧🇷 Brazilian GP: Qualy
+2026-11-08 17:00 🇧🇷 Brazilian GP: Grand Prix
+2026-11-20 00:30 🇺🇸 Las Vegas GP: FP1
+2026-11-20 04:00 🇺🇸 Las Vegas GP: FP2
+2026-11-21 00:30 🇺🇸 Las Vegas GP: FP3
+2026-11-21 04:00 🇺🇸 Las Vegas GP: Qualy
+2026-11-22 04:00 🇺🇸 Las Vegas GP: Grand Prix
+2026-11-27 13:30 🇶🇦 Qatar GP: FP1
+2026-11-27 17:00 🇶🇦 Qatar GP: FP2
+2026-11-28 14:30 🇶🇦 Qatar GP: FP3
+2026-11-28 18:00 🇶🇦 Qatar GP: Qualy
+2026-11-29 16:00 🇶🇦 Qatar GP: Grand Prix
+2026-12-04 01:30 🇦🇪 Abu Dhabi GP: FP1
+2026-12-04 05:00 🇦🇪 Abu Dhabi GP: FP2
+2026-12-05 02:30 🇦🇪 Abu Dhabi GP: FP3
+2026-12-05 06:00 🇦🇪 Abu Dhabi GP: Qualy
+2026-12-06 05:00 🇦🇪 Abu Dhabi GP: Grand Prix
